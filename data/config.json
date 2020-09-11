@@ -1,0 +1,19 @@
+{
+	"version": "0.0.49",
+	"instructions": [
+		{
+			"class": {
+				"desktop": "step-00-desktop",
+				"mobile": "step-00-mobile"
+			},
+			"text": {
+				"desktop": "你可以用方向键移动",
+				"mobile": "你可以用操纵杆移动"
+			}
+		},
+		{
+			"class": "step-02",
+			"text": "拯救所有的鱼。尽可能快地收集所有的硬币以获得更高的分数！"
+		}
+	]
+}
